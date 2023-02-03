@@ -1,0 +1,158 @@
+{
+    "type": "report_stats",
+    "arena": "Outdoor",
+    "score": {
+        "away": 2,
+        "home": 0
+    },
+    "winner": "away",
+    "players": [
+        {
+            "team": "home",
+            "stats": {
+                "passes": 10,
+                "takeaways": 4,
+                "turnovers": 5,
+                "games_played": 1,
+                "conceded_goals": 2,
+                "shutouts_against": 1,
+                "possession_time_sec": 6
+            },
+            "username": "Kitsune",
+            "game_user_id": "257052"
+        },
+        {
+            "team": "home",
+            "stats": {
+                "saves": 1,
+                "score": 35,
+                "losses": 1,
+                "passes": 3,
+                "takeaways": 3,
+                "turnovers": 4,
+                "games_played": 1,
+                "faceoffs_lost": 3,
+                "conceded_goals": 2,
+                "shutouts_against": 1,
+                "possession_time_sec": 3
+            },
+            "username": "suu0",
+            "game_user_id": "782326"
+        },
+        {
+            "team": "home",
+            "stats": {
+                "saves": 2,
+                "score": 70,
+                "losses": 1,
+                "passes": 4,
+                "takeaways": 1,
+                "turnovers": 3,
+                "games_played": 1,
+                "conceded_goals": 2,
+                "shutouts_against": 1,
+                "possession_time_sec": 7
+            },
+            "username": "★ [Oalo]",
+            "game_user_id": "231537"
+        },
+        {
+            "team": "home",
+            "stats": {
+                "losses": 1,
+                "passes": 1,
+                "takeaways": 2,
+                "turnovers": 3,
+                "games_played": 1,
+                "conceded_goals": 2,
+                "shutouts_against": 1,
+                "possession_time_sec": 3
+            },
+            "username": "★ Valc0",
+            "game_user_id": "236752"
+        },
+        {
+            "team": "away",
+            "stats": {
+                "wins": 1,
+                "goals": 1,
+                "score": 155,
+                "shots": 1,
+                "blocks": 1,
+                "passes": 6,
+                "shutouts": 1,
+                "takeaways": 4,
+                "turnovers": 6,
+                "faceoffs_won": 1,
+                "games_played": 1,
+                "contributed_goals": 2,
+                "possession_time_sec": 17
+            },
+            "username": "Jone",
+            "game_user_id": "659143"
+        },
+        {
+            "team": "away",
+            "stats": {
+                "wins": 1,
+                "score": 125,
+                "passes": 5,
+                "assists": 2,
+                "shutouts": 1,
+                "takeaways": 6,
+                "turnovers": 1,
+                "games_played": 1,
+                "primary_assists": 1,
+                "contributed_goals": 2,
+                "secondary_assists": 1,
+                "possession_time_sec": 29
+            },
+            "username": "jarv",
+            "game_user_id": "95885"
+        },
+        {
+            "team": "away",
+            "stats": {
+                "wins": 1,
+                "goals": 1,
+                "score": 275,
+                "shots": 4,
+                "passes": 13,
+                "assists": 1,
+                "shutouts": 1,
+                "takeaways": 3,
+                "turnovers": 2,
+                "games_played": 1,
+                "primary_assists": 1,
+                "contributed_goals": 2,
+                "possession_time_sec": 25
+            },
+            "username": "mk",
+            "game_user_id": "591708"
+        },
+        {
+            "team": "away",
+            "stats": {
+                "wins": 1,
+                "score": 80,
+                "passes": 4,
+                "assists": 1,
+                "shutouts": 1,
+                "takeaways": 2,
+                "turnovers": 1,
+                "faceoffs_won": 2,
+                "games_played": 1,
+                "contributed_goals": 2,
+                "secondary_assists": 1,
+                "possession_time_sec": 10
+            },
+            "username": "Maax",
+            "game_user_id": "39307"
+        }
+    ],
+    "end_reason": "EndOfRegulation",
+    "match_length": "300",
+    "current_period": "1",
+    "periods_enabled": "True",
+    "custom_mercy_rule": "10"
+}

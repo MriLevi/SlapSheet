@@ -1,0 +1,153 @@
+{
+    "type": "report_stats",
+    "arena": "Slap Stadium",
+    "score": {
+        "away": 1,
+        "home": 1
+    },
+    "winner": "none",
+    "players": [
+        {
+            "team": "home",
+            "stats": {
+                "ties": 1,
+                "saves": 2,
+                "score": 95,
+                "shots": 1,
+                "passes": 10,
+                "games_played": 1,
+                "conceded_goals": 1,
+                "contributed_goals": 1,
+                "possession_time_sec": 29
+            },
+            "username": "Snakob",
+            "game_user_id": "312944"
+        },
+        {
+            "team": "home",
+            "stats": {
+                "ties": 1,
+                "saves": 1,
+                "score": 165,
+                "shots": 1,
+                "blocks": 1,
+                "passes": 14,
+                "assists": 1,
+                "faceoffs_won": 1,
+                "games_played": 1,
+                "conceded_goals": 1,
+                "primary_assists": 1,
+                "contributed_goals": 1,
+                "possession_time_sec": 26
+            },
+            "username": "Henze",
+            "game_user_id": "767886"
+        },
+        {
+            "team": "home",
+            "stats": {
+                "ties": 1,
+                "score": 110,
+                "blocks": 2,
+                "passes": 8,
+                "assists": 1,
+                "faceoffs_won": 2,
+                "games_played": 1,
+                "conceded_goals": 1,
+                "contributed_goals": 1,
+                "secondary_assists": 1,
+                "possession_time_sec": 4
+            },
+            "username": "Tomu",
+            "game_user_id": "542322"
+        },
+        {
+            "team": "home",
+            "stats": {
+                "ties": 1,
+                "goals": 1,
+                "score": 125,
+                "shots": 1,
+                "passes": 11,
+                "post_hits": 1,
+                "games_played": 1,
+                "conceded_goals": 1,
+                "contributed_goals": 1,
+                "possession_time_sec": 3
+            },
+            "username": "Alle",
+            "game_user_id": "3982"
+        },
+        {
+            "team": "away",
+            "stats": {
+                "ties": 1,
+                "goals": 1,
+                "saves": 1,
+                "score": 185,
+                "shots": 2,
+                "passes": 1,
+                "games_played": 1,
+                "conceded_goals": 1,
+                "contributed_goals": 1,
+                "possession_time_sec": 5
+            },
+            "username": "Kony",
+            "game_user_id": "98"
+        },
+        {
+            "team": "away",
+            "stats": {
+                "ties": 1,
+                "score": 40,
+                "shots": 1,
+                "blocks": 1,
+                "passes": 6,
+                "post_hits": 1,
+                "games_played": 1,
+                "faceoffs_lost": 2,
+                "conceded_goals": 1,
+                "contributed_goals": 1,
+                "possession_time_sec": 5
+            },
+            "username": "Dustin",
+            "game_user_id": "615"
+        },
+        {
+            "team": "away",
+            "stats": {
+                "ties": 1,
+                "score": 15,
+                "blocks": 1,
+                "passes": 3,
+                "games_played": 1,
+                "faceoffs_lost": 1,
+                "conceded_goals": 1,
+                "contributed_goals": 1
+            },
+            "username": "MRBROE",
+            "game_user_id": "773"
+        },
+        {
+            "team": "away",
+            "stats": {
+                "ties": 1,
+                "saves": 1,
+                "score": 60,
+                "shots": 1,
+                "passes": 3,
+                "games_played": 1,
+                "conceded_goals": 1,
+                "contributed_goals": 1,
+                "possession_time_sec": 8
+            },
+            "username": "Radiant",
+            "game_user_id": "1724"
+        }
+    ],
+    "end_reason": "Tie",
+    "match_length": "300",
+    "current_period": "1",
+    "periods_enabled": "True",
+    "custom_mercy_rule": "10"
+}

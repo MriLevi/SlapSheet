@@ -1,0 +1,166 @@
+{
+    "type": "report_stats",
+    "arena": "Outdoor",
+    "score": {
+        "away": 1,
+        "home": 2
+    },
+    "winner": "home",
+    "players": [
+        {
+            "team": "home",
+            "stats": {
+                "wins": 1,
+                "goals": 1,
+                "saves": 1,
+                "score": 190,
+                "shots": 1,
+                "blocks": 2,
+                "passes": 2,
+                "takeaways": 3,
+                "turnovers": 2,
+                "games_played": 1,
+                "faceoffs_lost": 2,
+                "conceded_goals": 1,
+                "contributed_goals": 2,
+                "possession_time_sec": 9
+            },
+            "username": "skj",
+            "game_user_id": "3582"
+        },
+        {
+            "team": "home",
+            "stats": {
+                "wins": 1,
+                "saves": 1,
+                "score": 35,
+                "passes": 3,
+                "takeaways": 1,
+                "turnovers": 2,
+                "games_played": 1,
+                "conceded_goals": 1,
+                "contributed_goals": 2,
+                "possession_time_sec": 3
+            },
+            "username": "Cubone",
+            "game_user_id": "58679"
+        },
+        {
+            "team": "home",
+            "stats": {
+                "wins": 1,
+                "saves": 1,
+                "score": 35,
+                "passes": 6,
+                "takeaways": 1,
+                "turnovers": 3,
+                "games_played": 1,
+                "faceoffs_lost": 1,
+                "conceded_goals": 1,
+                "contributed_goals": 2,
+                "possession_time_sec": 4
+            },
+            "username": "Squidonge",
+            "game_user_id": "1637"
+        },
+        {
+            "team": "home",
+            "stats": {
+                "wins": 1,
+                "goals": 1,
+                "score": 265,
+                "shots": 3,
+                "passes": 4,
+                "assists": 1,
+                "post_hits": 1,
+                "takeaways": 1,
+                "turnovers": 1,
+                "faceoffs_won": 1,
+                "games_played": 1,
+                "conceded_goals": 1,
+                "primary_assists": 1,
+                "contributed_goals": 2,
+                "possession_time_sec": 3
+            },
+            "username": "Henze",
+            "game_user_id": "767886"
+        },
+        {
+            "team": "away",
+            "stats": {
+                "score": 75,
+                "losses": 1,
+                "passes": 9,
+                "assists": 1,
+                "takeaways": 3,
+                "turnovers": 2,
+                "games_played": 1,
+                "conceded_goals": 2,
+                "primary_assists": 1,
+                "contributed_goals": 1,
+                "possession_time_sec": 13
+            },
+            "username": "uZed",
+            "game_user_id": "1526"
+        },
+        {
+            "team": "away",
+            "stats": {
+                "saves": 2,
+                "score": 85,
+                "blocks": 1,
+                "losses": 1,
+                "passes": 4,
+                "takeaways": 2,
+                "games_played": 1,
+                "conceded_goals": 2,
+                "contributed_goals": 1,
+                "possession_time_sec": 33
+            },
+            "username": "Garous",
+            "game_user_id": "323560"
+        },
+        {
+            "team": "away",
+            "stats": {
+                "score": 65,
+                "shots": 2,
+                "losses": 1,
+                "passes": 13,
+                "turnovers": 1,
+                "faceoffs_won": 1,
+                "games_played": 1,
+                "conceded_goals": 2,
+                "contributed_goals": 1,
+                "possession_time_sec": 2
+            },
+            "username": "240",
+            "game_user_id": "433439"
+        },
+        {
+            "team": "away",
+            "stats": {
+                "goals": 1,
+                "score": 180,
+                "shots": 2,
+                "losses": 1,
+                "passes": 10,
+                "takeaways": 3,
+                "turnovers": 3,
+                "faceoffs_won": 2,
+                "games_played": 1,
+                "faceoffs_lost": 1,
+                "conceded_goals": 2,
+                "contributed_goals": 1,
+                "possession_time_sec": 4
+            },
+            "username": "FoxPolder",
+            "game_user_id": "515624"
+        }
+    ],
+    "end_reason": "EndOfRegulation",
+    "match_length": "300",
+    "current_period": "1",
+    "periods_enabled": "True",
+    "custom_mercy_rule": "10"
+}

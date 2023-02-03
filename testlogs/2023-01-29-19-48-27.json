@@ -1,0 +1,179 @@
+{
+    "type": "report_stats",
+    "arena": "Slap Stadium",
+    "score": {
+        "away": 5,
+        "home": 0
+    },
+    "winner": "away",
+    "players": [
+        {
+            "team": "home",
+            "stats": {
+                "saves": 8,
+                "score": 280,
+                "losses": 2,
+                "passes": 4,
+                "turnovers": 2,
+                "games_played": 2,
+                "conceded_goals": 5,
+                "shutouts_against": 2,
+                "possession_time_sec": 4
+            },
+            "username": "Golgenator",
+            "game_user_id": "28"
+        },
+        {
+            "team": "home",
+            "stats": {
+                "score": 15,
+                "blocks": 1,
+                "losses": 2,
+                "passes": 10,
+                "takeaways": 2,
+                "turnovers": 4,
+                "games_played": 2,
+                "faceoffs_lost": 3,
+                "conceded_goals": 5,
+                "shutouts_against": 2,
+                "possession_time_sec": 10
+            },
+            "username": "Kony",
+            "game_user_id": "98"
+        },
+        {
+            "team": "home",
+            "stats": {
+                "saves": 3,
+                "score": 145,
+                "shots": 1,
+                "blocks": 1,
+                "losses": 2,
+                "passes": 10,
+                "takeaways": 4,
+                "turnovers": 3,
+                "games_played": 2,
+                "faceoffs_lost": 1,
+                "conceded_goals": 5,
+                "shutouts_against": 2,
+                "possession_time_sec": 16
+            },
+            "username": "Radiant",
+            "game_user_id": "1724"
+        },
+        {
+            "team": "home",
+            "stats": {
+                "saves": 1,
+                "score": 90,
+                "shots": 1,
+                "losses": 2,
+                "passes": 8,
+                "takeaways": 2,
+                "turnovers": 4,
+                "faceoffs_won": 2,
+                "games_played": 2,
+                "faceoffs_lost": 1,
+                "conceded_goals": 5,
+                "shutouts_against": 2,
+                "possession_time_sec": 14
+            },
+            "username": "Dustin",
+            "game_user_id": "615"
+        },
+        {
+            "team": "away",
+            "stats": {
+                "wins": 2,
+                "score": 180,
+                "passes": 10,
+                "assists": 2,
+                "shutouts": 2,
+                "takeaways": 3,
+                "turnovers": 1,
+                "faceoffs_won": 2,
+                "games_played": 2,
+                "faceoffs_lost": 1,
+                "primary_assists": 2,
+                "contributed_goals": 5,
+                "possession_time_sec": 35
+            },
+            "username": "EmTeeWii",
+            "game_user_id": "4037"
+        },
+        {
+            "team": "away",
+            "stats": {},
+            "username": "LALLAREN#1",
+            "game_user_id": "227103"
+        },
+        {
+            "team": "away",
+            "stats": {
+                "wins": 2,
+                "saves": 2,
+                "score": 175,
+                "shots": 1,
+                "blocks": 2,
+                "passes": 10,
+                "assists": 1,
+                "shutouts": 2,
+                "games_played": 2,
+                "contributed_goals": 5,
+                "secondary_assists": 1,
+                "possession_time_sec": 48
+            },
+            "username": "MANU",
+            "game_user_id": "413330"
+        },
+        {
+            "team": "away",
+            "stats": {
+                "wins": 2,
+                "goals": 3,
+                "score": 665,
+                "shots": 8,
+                "passes": 27,
+                "assists": 2,
+                "shutouts": 2,
+                "takeaways": 3,
+                "turnovers": 4,
+                "faceoffs_won": 1,
+                "games_played": 2,
+                "faceoffs_lost": 1,
+                "primary_assists": 2,
+                "contributed_goals": 5,
+                "possession_time_sec": 19
+            },
+            "username": "𝕁𝕦𝕊𝕒𝕟𝕖♥",
+            "game_user_id": "68542"
+        },
+        {
+            "team": "away",
+            "stats": {
+                "wins": 2,
+                "goals": 2,
+                "score": 505,
+                "shots": 8,
+                "passes": 20,
+                "assists": 1,
+                "shutouts": 2,
+                "post_hits": 3,
+                "takeaways": 7,
+                "turnovers": 3,
+                "faceoffs_won": 2,
+                "games_played": 2,
+                "primary_assists": 1,
+                "contributed_goals": 5,
+                "possession_time_sec": 23
+            },
+            "username": "DamnTheFish",
+            "game_user_id": "263"
+        }
+    ],
+    "end_reason": "EndOfRegulation",
+    "match_length": "300",
+    "current_period": "2",
+    "periods_enabled": "True",
+    "custom_mercy_rule": "10"
+}

@@ -1,0 +1,149 @@
+{
+    "type": "report_stats",
+    "arena": "Slap Stadium",
+    "score": {
+        "away": 0,
+        "home": 1
+    },
+    "winner": "home",
+    "players": [
+        {
+            "team": "home",
+            "stats": {
+                "wins": 1,
+                "saves": 1,
+                "score": 65,
+                "blocks": 2,
+                "passes": 7,
+                "shutouts": 1,
+                "takeaways": 1,
+                "turnovers": 2,
+                "games_played": 1,
+                "contributed_goals": 1,
+                "possession_time_sec": 24
+            },
+            "username": "PP",
+            "game_user_id": "2543"
+        },
+        {
+            "team": "home",
+            "stats": {
+                "wins": 1,
+                "goals": 1,
+                "score": 150,
+                "shots": 2,
+                "passes": 12,
+                "shutouts": 1,
+                "turnovers": 1,
+                "games_played": 1,
+                "contributed_goals": 1,
+                "possession_time_sec": 7
+            },
+            "username": "alpi",
+            "game_user_id": "98143"
+        },
+        {
+            "team": "home",
+            "stats": {
+                "wins": 1,
+                "saves": 2,
+                "score": 85,
+                "passes": 6,
+                "shutouts": 1,
+                "takeaways": 1,
+                "faceoffs_won": 1,
+                "games_played": 1,
+                "contributed_goals": 1,
+                "possession_time_sec": 17
+            },
+            "username": "hýbaa",
+            "game_user_id": "124"
+        },
+        {
+            "team": "home",
+            "stats": {
+                "wins": 1,
+                "score": 25,
+                "shots": 1,
+                "passes": 9,
+                "shutouts": 1,
+                "games_played": 1,
+                "faceoffs_lost": 1,
+                "contributed_goals": 1,
+                "possession_time_sec": 6
+            },
+            "username": "Loui Eriksson (Rapid)",
+            "game_user_id": "30"
+        },
+        {
+            "team": "away",
+            "stats": {
+                "losses": 1,
+                "passes": 8,
+                "takeaways": 2,
+                "games_played": 1,
+                "conceded_goals": 1,
+                "shutouts_against": 1,
+                "possession_time_sec": 4
+            },
+            "username": "Siemuar",
+            "game_user_id": "421"
+        },
+        {
+            "team": "away",
+            "stats": {
+                "saves": 1,
+                "score": 75,
+                "shots": 1,
+                "blocks": 1,
+                "losses": 1,
+                "passes": 6,
+                "takeaways": 1,
+                "turnovers": 2,
+                "games_played": 1,
+                "faceoffs_lost": 1,
+                "conceded_goals": 1,
+                "shutouts_against": 1,
+                "possession_time_sec": 10
+            },
+            "username": "Slog",
+            "game_user_id": "250"
+        },
+        {
+            "team": "away",
+            "stats": {
+                "saves": 1,
+                "score": 75,
+                "shots": 1,
+                "losses": 1,
+                "passes": 2,
+                "faceoffs_won": 1,
+                "games_played": 1,
+                "conceded_goals": 1,
+                "shutouts_against": 1,
+                "possession_time_sec": 4
+            },
+            "username": "Poke",
+            "game_user_id": "181"
+        },
+        {
+            "team": "away",
+            "stats": {
+                "score": 25,
+                "shots": 1,
+                "losses": 1,
+                "passes": 4,
+                "games_played": 1,
+                "conceded_goals": 1,
+                "shutouts_against": 1
+            },
+            "username": "Strig",
+            "game_user_id": "60"
+        }
+    ],
+    "end_reason": "EndOfRegulation",
+    "match_length": "300",
+    "current_period": "1",
+    "periods_enabled": "True",
+    "custom_mercy_rule": "10"
+}

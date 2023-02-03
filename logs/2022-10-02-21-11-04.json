@@ -1,0 +1,187 @@
+{
+    "type": "report_stats",
+    "arena": "Outdoor",
+    "score": {
+        "away": 4,
+        "home": 1
+    },
+    "winner": "away",
+    "players": [
+        {
+            "team": "home",
+            "stats": {
+                "goals": 1,
+                "score": 240,
+                "shots": 5,
+                "losses": 2,
+                "passes": 20,
+                "takeaways": 2,
+                "turnovers": 5,
+                "faceoffs_won": 1,
+                "games_played": 2,
+                "conceded_goals": 4,
+                "shutouts_against": 1,
+                "contributed_goals": 1,
+                "possession_time_sec": 13
+            },
+            "username": "Raphael",
+            "game_user_id": "25757"
+        },
+        {
+            "team": "home",
+            "stats": {
+                "saves": 3,
+                "score": 150,
+                "losses": 2,
+                "passes": 9,
+                "turnovers": 2,
+                "faceoffs_won": 3,
+                "games_played": 2,
+                "conceded_goals": 4,
+                "shutouts_against": 1,
+                "contributed_goals": 1,
+                "possession_time_sec": 19
+            },
+            "username": "Cubone",
+            "game_user_id": "58679"
+        },
+        {
+            "team": "home",
+            "stats": {
+                "saves": 1,
+                "score": 265,
+                "shots": 5,
+                "losses": 2,
+                "passes": 18,
+                "assists": 1,
+                "takeaways": 10,
+                "turnovers": 5,
+                "faceoffs_won": 2,
+                "games_played": 2,
+                "conceded_goals": 4,
+                "primary_assists": 1,
+                "shutouts_against": 1,
+                "contributed_goals": 1,
+                "possession_time_sec": 31
+            },
+            "username": "Henze",
+            "game_user_id": "767886"
+        },
+        {
+            "team": "home",
+            "stats": {
+                "score": 40,
+                "shots": 1,
+                "blocks": 1,
+                "losses": 2,
+                "passes": 14,
+                "takeaways": 2,
+                "turnovers": 7,
+                "games_played": 2,
+                "faceoffs_lost": 1,
+                "conceded_goals": 4,
+                "shutouts_against": 1,
+                "contributed_goals": 1,
+                "possession_time_sec": 10
+            },
+            "username": "Squidonge",
+            "game_user_id": "1637"
+        },
+        {
+            "team": "away",
+            "stats": {
+                "wins": 2,
+                "goals": 2,
+                "score": 275,
+                "shots": 3,
+                "passes": 12,
+                "shutouts": 1,
+                "takeaways": 6,
+                "turnovers": 4,
+                "games_played": 2,
+                "faceoffs_lost": 1,
+                "conceded_goals": 1,
+                "contributed_goals": 4,
+                "possession_time_sec": 10
+            },
+            "username": "kimbaba",
+            "game_user_id": "412048"
+        },
+        {
+            "team": "away",
+            "stats": {
+                "wins": 2,
+                "goals": 1,
+                "saves": 3,
+                "score": 455,
+                "shots": 2,
+                "passes": 15,
+                "assists": 3,
+                "shutouts": 1,
+                "post_hits": 1,
+                "takeaways": 5,
+                "turnovers": 2,
+                "games_played": 2,
+                "faceoffs_lost": 1,
+                "conceded_goals": 1,
+                "primary_assists": 2,
+                "contributed_goals": 4,
+                "secondary_assists": 1,
+                "possession_time_sec": 13
+            },
+            "username": "Fred",
+            "game_user_id": "2824"
+        },
+        {
+            "team": "away",
+            "stats": {
+                "wins": 2,
+                "goals": 1,
+                "saves": 1,
+                "score": 375,
+                "shots": 3,
+                "blocks": 1,
+                "passes": 7,
+                "assists": 2,
+                "shutouts": 1,
+                "post_hits": 1,
+                "takeaways": 3,
+                "turnovers": 3,
+                "games_played": 2,
+                "faceoffs_lost": 3,
+                "conceded_goals": 1,
+                "primary_assists": 2,
+                "contributed_goals": 4,
+                "possession_time_sec": 5
+            },
+            "username": "Ganni",
+            "game_user_id": "2709"
+        },
+        {
+            "team": "away",
+            "stats": {
+                "wins": 2,
+                "saves": 6,
+                "score": 240,
+                "blocks": 1,
+                "passes": 4,
+                "shutouts": 1,
+                "takeaways": 5,
+                "turnovers": 5,
+                "faceoffs_won": 1,
+                "games_played": 2,
+                "faceoffs_lost": 1,
+                "conceded_goals": 1,
+                "contributed_goals": 4,
+                "possession_time_sec": 55
+            },
+            "username": "Satchmoboy",
+            "game_user_id": "195944"
+        }
+    ],
+    "end_reason": "EndOfRegulation",
+    "match_length": "300",
+    "current_period": "2",
+    "periods_enabled": "True",
+    "custom_mercy_rule": "10"
+}

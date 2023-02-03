@@ -1,0 +1,182 @@
+{
+    "type": "report_stats",
+    "arena": "Slap Stadium",
+    "score": {
+        "away": 1,
+        "home": 3
+    },
+    "winner": "home",
+    "players": [
+        {
+            "team": "home",
+            "stats": {
+                "wins": 2,
+                "saves": 3,
+                "score": 150,
+                "blocks": 3,
+                "passes": 14,
+                "shutouts": 1,
+                "takeaways": 2,
+                "turnovers": 4,
+                "games_played": 2,
+                "conceded_goals": 1,
+                "contributed_goals": 3,
+                "possession_time_sec": 40
+            },
+            "username": "PP",
+            "game_user_id": "2543"
+        },
+        {
+            "team": "home",
+            "stats": {
+                "wins": 2,
+                "goals": 2,
+                "score": 325,
+                "shots": 3,
+                "passes": 18,
+                "assists": 1,
+                "shutouts": 1,
+                "turnovers": 1,
+                "games_played": 2,
+                "faceoffs_lost": 1,
+                "conceded_goals": 1,
+                "contributed_goals": 3,
+                "secondary_assists": 1,
+                "possession_time_sec": 18
+            },
+            "username": "alpi",
+            "game_user_id": "98143"
+        },
+        {
+            "team": "home",
+            "stats": {
+                "wins": 2,
+                "saves": 3,
+                "score": 345,
+                "shots": 3,
+                "passes": 17,
+                "assists": 2,
+                "shutouts": 1,
+                "takeaways": 3,
+                "faceoffs_won": 1,
+                "games_played": 2,
+                "faceoffs_lost": 1,
+                "conceded_goals": 1,
+                "primary_assists": 2,
+                "contributed_goals": 3,
+                "possession_time_sec": 25
+            },
+            "username": "hýbaa",
+            "game_user_id": "124"
+        },
+        {
+            "team": "home",
+            "stats": {
+                "wins": 2,
+                "goals": 1,
+                "score": 230,
+                "shots": 4,
+                "passes": 16,
+                "shutouts": 1,
+                "turnovers": 1,
+                "faceoffs_won": 2,
+                "games_played": 2,
+                "faceoffs_lost": 1,
+                "conceded_goals": 1,
+                "contributed_goals": 3,
+                "possession_time_sec": 9
+            },
+            "username": "Loui Eriksson (Rapid)",
+            "game_user_id": "30"
+        },
+        {
+            "team": "away",
+            "stats": {
+                "goals": 1,
+                "score": 150,
+                "shots": 2,
+                "losses": 2,
+                "passes": 12,
+                "takeaways": 2,
+                "games_played": 2,
+                "faceoffs_lost": 1,
+                "conceded_goals": 3,
+                "shutouts_against": 1,
+                "contributed_goals": 1,
+                "possession_time_sec": 12
+            },
+            "username": "Siemuar",
+            "game_user_id": "421"
+        },
+        {
+            "team": "away",
+            "stats": {
+                "saves": 1,
+                "score": 150,
+                "shots": 1,
+                "blocks": 1,
+                "losses": 2,
+                "passes": 13,
+                "assists": 1,
+                "takeaways": 3,
+                "turnovers": 4,
+                "games_played": 2,
+                "faceoffs_lost": 1,
+                "conceded_goals": 3,
+                "primary_assists": 1,
+                "shutouts_against": 1,
+                "contributed_goals": 1,
+                "possession_time_sec": 24
+            },
+            "username": "Slog",
+            "game_user_id": "250"
+        },
+        {
+            "team": "away",
+            "stats": {
+                "saves": 4,
+                "score": 230,
+                "shots": 1,
+                "losses": 2,
+                "passes": 7,
+                "assists": 1,
+                "turnovers": 1,
+                "faceoffs_won": 1,
+                "games_played": 2,
+                "faceoffs_lost": 1,
+                "conceded_goals": 3,
+                "shutouts_against": 1,
+                "contributed_goals": 1,
+                "secondary_assists": 1,
+                "possession_time_sec": 13
+            },
+            "username": "Poke",
+            "game_user_id": "181"
+        },
+        {
+            "team": "away",
+            "stats": {
+                "saves": 2,
+                "score": 190,
+                "shots": 3,
+                "blocks": 1,
+                "losses": 2,
+                "passes": 9,
+                "takeaways": 1,
+                "faceoffs_won": 2,
+                "games_played": 2,
+                "conceded_goals": 3,
+                "shutouts_against": 1,
+                "contributed_goals": 1,
+                "possession_time_sec": 1
+            },
+            "username": "Strig",
+            "game_user_id": "60"
+        }
+    ],
+    "end_reason": "EndOfRegulation",
+    "match_length": "300",
+    "current_period": "2",
+    "periods_enabled": "True",
+    "custom_mercy_rule": "10"
+}

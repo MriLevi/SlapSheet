@@ -1,0 +1,147 @@
+{
+    "type": "report_stats",
+    "arena": "Slap Stadium",
+    "score": {
+        "away": 1,
+        "home": 1
+    },
+    "winner": "none",
+    "players": [
+        {
+            "team": "home",
+            "stats": {
+                "ties": 1,
+                "saves": 3,
+                "score": 120,
+                "blocks": 1,
+                "passes": 3,
+                "takeaways": 1,
+                "games_played": 1,
+                "conceded_goals": 1,
+                "contributed_goals": 1,
+                "possession_time_sec": 15
+            },
+            "username": "Snakob",
+            "game_user_id": "312944"
+        },
+        {
+            "team": "home",
+            "stats": {
+                "ties": 1,
+                "goals": 1,
+                "score": 150,
+                "shots": 2,
+                "passes": 11,
+                "turnovers": 2,
+                "games_played": 1,
+                "faceoffs_lost": 1,
+                "conceded_goals": 1,
+                "contributed_goals": 1,
+                "possession_time_sec": 3
+            },
+            "username": "Tomu",
+            "game_user_id": "542322"
+        },
+        {
+            "team": "home",
+            "stats": {
+                "ties": 1,
+                "passes": 6,
+                "turnovers": 2,
+                "games_played": 1,
+                "conceded_goals": 1,
+                "contributed_goals": 1,
+                "possession_time_sec": 20
+            },
+            "username": "Henze",
+            "game_user_id": "767886"
+        },
+        {
+            "team": "home",
+            "stats": {
+                "ties": 1,
+                "passes": 7,
+                "takeaways": 3,
+                "games_played": 1,
+                "faceoffs_lost": 2,
+                "conceded_goals": 1,
+                "contributed_goals": 1,
+                "possession_time_sec": 13
+            },
+            "username": "Alle",
+            "game_user_id": "3982"
+        },
+        {
+            "team": "away",
+            "stats": {
+                "ties": 1,
+                "saves": 1,
+                "score": 50,
+                "blocks": 1,
+                "passes": 3,
+                "games_played": 1,
+                "conceded_goals": 1,
+                "contributed_goals": 1,
+                "possession_time_sec": 9
+            },
+            "username": "Matsoni",
+            "game_user_id": "1338"
+        },
+        {
+            "team": "away",
+            "stats": {
+                "ties": 1,
+                "passes": 6,
+                "post_hits": 1,
+                "turnovers": 2,
+                "games_played": 1,
+                "conceded_goals": 1,
+                "contributed_goals": 1,
+                "possession_time_sec": 26
+            },
+            "username": "gubbaba",
+            "game_user_id": "320845"
+        },
+        {
+            "team": "away",
+            "stats": {
+                "ties": 1,
+                "score": 15,
+                "passes": 6,
+                "takeaways": 2,
+                "turnovers": 2,
+                "faceoffs_won": 1,
+                "games_played": 1,
+                "conceded_goals": 1,
+                "contributed_goals": 1,
+                "possession_time_sec": 4
+            },
+            "username": "Al1xmEister",
+            "game_user_id": "109"
+        },
+        {
+            "team": "away",
+            "stats": {
+                "ties": 1,
+                "goals": 1,
+                "score": 230,
+                "shots": 4,
+                "passes": 4,
+                "post_hits": 1,
+                "takeaways": 2,
+                "faceoffs_won": 2,
+                "games_played": 1,
+                "conceded_goals": 1,
+                "contributed_goals": 1,
+                "possession_time_sec": 8
+            },
+            "username": "Mr. iLevi",
+            "game_user_id": "137054"
+        }
+    ],
+    "end_reason": "Tie",
+    "match_length": "300",
+    "current_period": "1",
+    "periods_enabled": "True",
+    "custom_mercy_rule": "10"
+}
